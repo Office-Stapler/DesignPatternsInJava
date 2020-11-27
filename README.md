@@ -5,3 +5,4 @@ Design patterns implemented so far:
 - Strategy
 - Observer
 - State
+- Template
