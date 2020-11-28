@@ -7,3 +7,6 @@ Design patterns implemented so far:
 - State
 - Template
 - Visitor
+
+# Structural
+- Composite
