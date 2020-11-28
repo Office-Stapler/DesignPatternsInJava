@@ -10,3 +10,4 @@ Design patterns implemented so far:
 
 # Structural
 - Composite
+- Decorator
