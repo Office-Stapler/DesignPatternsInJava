@@ -14,3 +14,4 @@ Design patterns implemented so far:
 - Adapter
 
 # Creational
+- Factory Method
