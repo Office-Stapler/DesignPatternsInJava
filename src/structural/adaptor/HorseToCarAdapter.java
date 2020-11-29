@@ -1,4 +1,4 @@
-package creational.adaptor;
+package structural.adaptor;
 
 public class HorseToCarAdapter implements Car {
     Horse horse;

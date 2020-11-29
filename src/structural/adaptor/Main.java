@@ -1,4 +1,4 @@
-package creational.adaptor;
+package structural.adaptor;
 
 public class Main {
     public static void main(String[] args) {

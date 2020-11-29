@@ -1,4 +1,4 @@
-package creational.adaptor;
+package structural.adaptor;
 
 public class Horse {
     private int maxSpeed;
