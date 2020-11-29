@@ -17,3 +17,4 @@ Design patterns implemented so far:
 - Factory Method
 - Abstract Factory
 - Builder
+- Singleton
