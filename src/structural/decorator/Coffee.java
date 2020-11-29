@@ -1,4 +1,4 @@
-package creational.decorator;
+package structural.decorator;
 
 public interface Coffee {
     public String getDescription();

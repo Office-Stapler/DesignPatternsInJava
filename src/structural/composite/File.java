@@ -1,4 +1,4 @@
-package creational.composite;
+package structural.composite;
 
 public class File implements Component {
     private String name;

@@ -1,4 +1,4 @@
-package creational.composite;
+package structural.composite;
 
 public interface Component {
     public int getSize();

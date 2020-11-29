@@ -1,4 +1,4 @@
-package creational.decorator;
+package structural.decorator;
 
 public abstract class ToppingDecorator implements Coffee {
     protected Coffee coffee;
