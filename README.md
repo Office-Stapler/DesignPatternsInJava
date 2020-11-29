@@ -16,3 +16,4 @@ Design patterns implemented so far:
 # Creational
 - Factory Method
 - Abstract Factory
+- Builder
